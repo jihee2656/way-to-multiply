@@ -1,4 +1,6 @@
 # way-to-multiply
 
-##Index
+## Index
+
 - Etiopian Multiplication
+
